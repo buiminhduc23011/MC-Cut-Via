@@ -1,0 +1,162 @@
+﻿<Window x:Class="MC_Cut_Via_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MC_Cut_Via_UI"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Icon= "pack://application:,,,/MC Cut Via UI;component/Icon/machining.png"
+        Title="MC Cut Via UI"
+        Height="600"
+        Width="1024">
+    <Grid>
+        <Grid Width="1024"
+              Height="90"
+              VerticalAlignment="Top">
+            <Grid VerticalAlignment="Center"
+                  HorizontalAlignment="Center">
+                <Label Content="{DynamicResource Machine Cut Via}"
+                       Foreground="Black"
+                       FontSize="30"
+                       FontStyle="Normal"
+                       FontWeight="Bold"
+                       FontFamily="Source Sans Pro">
+
+                </Label>
+            </Grid>
+            <StackPanel>
+                <Grid Height="40">
+                    <StackPanel Orientation="Horizontal"
+                                Margin="10,0,0,0">
+                        <Image Width="25"
+                               Height="25"
+                               Source="Icon/Infor_User.png"></Image>
+                        <Label Content="{DynamicResource User}"
+                               FontSize="12"
+                               FontStyle="Normal"
+                               FontWeight="Bold"
+                               FontFamily="Source Sans Pro"
+                               VerticalAlignment="Center"></Label>
+                        <Label Content="..."
+                               x:Name="User"
+                               Width="200"
+                               FontSize="12"
+                               FontStyle="Normal"
+                               FontWeight="Bold"
+                               FontFamily="Source Sans Pro"
+                               VerticalAlignment="Center"></Label>
+                        <Grid Width="500"></Grid>
+                        <Button x:Name="bt_Buzzer"
+                                Style="{StaticResource TransparentButton}">
+                            <Image Width="25"
+                                   Height="25"
+                                   Source="Icon/Buzzer_Icon.png"></Image>
+                        </Button>
+                        <Button x:Name="bt_Infor"
+                                Click="bt_Infor_Click"
+                                Margin="10,0,0,0"
+                                Style="{StaticResource TransparentButton}">
+                            <StackPanel Orientation="Horizontal"
+                                        HorizontalAlignment="Center"
+                                        VerticalAlignment="Center">
+                                <Image Width="25"
+                                       Height="25"
+                                       Source="Icon/Infor.png"/>
+                                <TextBlock Text="Thông Tin"
+                                           Margin="5,0,0,0"
+                                           VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+                <Grid Height="40">
+                    <StackPanel Orientation="Horizontal"
+                                Margin="10,0,0,0">
+                        <Image Width="25"
+                               Height="25"
+                               Source="Icon/Product_Shift.png"></Image>
+                        <Label Content="{DynamicResource Product Shift}"
+                               FontSize="12"
+                               FontStyle="Normal"
+                               FontWeight="Bold"
+                               FontFamily="Source Sans Pro"
+                               VerticalAlignment="Center"></Label>
+                        <Label Content="..."
+                               Width="200"
+                               x:Name="Product_Shift"
+                               FontSize="12"
+                               FontStyle="Normal"
+                               FontWeight="Bold"
+                               FontFamily="Source Sans Pro"
+                               VerticalAlignment="Center"></Label>
+                        <Grid Width="527">
+                        </Grid>
+                        <Button x:Name="Select_language"
+                                Margin="10,0,0,0"
+                                Style="{StaticResource TransparentButton}">
+                            <StackPanel Orientation="Horizontal"
+                                        HorizontalAlignment="Center"
+                                        VerticalAlignment="Center">
+                                <Image Width="25"
+                                       Height="25"
+                                       Source="Icon/Select_Language.png"/>
+                                <TextBlock Text="Tiếng Việt"
+                                           Width="80"
+                                           Margin="5,0,0,0"
+                                           VerticalAlignment="Center"/>
+                                <Image Width="25"
+                                       Height="25"
+                                       Source="Icon/down_arrow.png"/>
+                            </StackPanel>
+                        </Button>
+
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </Grid>
+        <Grid Width="1024"
+              Height="510"
+              VerticalAlignment="Bottom"
+              Margin="0,0,0,1">
+            <Grid Width="150"
+                  Height="510"
+                  HorizontalAlignment="Left"
+                  Margin="1,0,0,0">
+                <Border BorderBrush="Black"
+                        BorderThickness="2"></Border>
+                <StackPanel>
+                    <Button Style="{StaticResource Button_Menu}"
+                            Tag="pack://application:,,,/MC Cut Via UI;component/Icon/Home.png"
+                            Content="{DynamicResource  Home}" 
+                            x:Name="bt_Auto" Click="bt_Auto_Click"/>
+                    <Button Style="{StaticResource Button_Menu}"
+                            Tag="pack://application:,,,/MC Cut Via UI;component/Icon/Manual.png"
+                            Content="{DynamicResource  Manual}"/>
+                    <Button Style="{StaticResource Button_Menu}"
+                            Tag="pack://application:,,,/MC Cut Via UI;component/Icon/History.png"
+                            Content="{DynamicResource  History}"/>
+                    <Button Style="{StaticResource Button_Menu}"
+                            Tag="pack://application:,,,/MC Cut Via UI;component/Icon/IO.png"
+                            Content="{DynamicResource  GPIO}"/>
+                    <Button Style="{StaticResource Button_Menu}"
+                            Tag="pack://application:,,,/MC Cut Via UI;component/Icon/Model.png"
+                            Content="{DynamicResource  Model}"/>
+                    <Button Style="{StaticResource Button_Menu}"
+                            Tag="pack://application:,,,/MC Cut Via UI;component/Icon/Setting.png"
+                            Content="{DynamicResource  Setting}"/>
+                </StackPanel>
+            </Grid>
+            <Grid Width="869"
+                  Height="510"
+                  HorizontalAlignment="Right"
+                  Margin="0,0,0,0">
+                <Border BorderBrush="Black"
+                        BorderThickness="2"
+                        Margin="-2,0,2,0">
+                </Border>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

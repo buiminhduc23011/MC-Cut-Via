@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+                    <system:String x:Key="Machine Cut Via">Máy Cắt Via</system:String>
+                    <system:String x:Key="User">Người Dùng:</system:String>
+                    <system:String x:Key="Product Shift">Ca Sản Xuất: </system:String>
+                    <system:String x:Key="Home">Tự Động</system:String>
+                    <system:String x:Key="Manual">Bằng Tay</system:String>
+                    <system:String x:Key="History">Lịch Sử</system:String>
+                    <system:String x:Key="GPIO">Tín Hiệu IO</system:String>
+                    <system:String x:Key="Model">Model</system:String>
+                    <system:String x:Key="Setting">Cài Đặt</system:String>
+                    <system:String x:Key="Login">Đăng Nhập</system:String>
+                    <system:String x:Key="Logout">Đăng Xuất</system:String>
+</ResourceDictionary>

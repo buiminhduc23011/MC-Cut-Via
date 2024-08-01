@@ -1,0 +1,48 @@
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\bin\Debug\MC Cut Via UI.exe.config
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\bin\Debug\MC Cut Via UI.exe
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\bin\Debug\MC Cut Via UI.pdb
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI.csproj.AssemblyReference.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Resources\en.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Resources\vi.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MainWindow.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\App.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI_MarkupCompile.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI_MarkupCompile.lref
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\App.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MainWindow.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI.g.resources
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC_Cut_Via_UI.Properties.Resources.resources
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI.csproj.GenerateResource.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI.exe
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\MC Cut Via UI.pdb
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Resources\Button.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Infor.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Infor.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Resources\Label.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Numberic_Key.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\MC Cut Via UI\MC Cut Via UI\obj\Debug\Numberic_Key.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\bin\Debug\MC Cut Via UI.exe.config
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\bin\Debug\MC Cut Via UI.exe
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\bin\Debug\MC Cut Via UI.pdb
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI.csproj.AssemblyReference.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Resources\Button.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Resources\en.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Resources\Label.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Resources\vi.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Infor.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MainWindow.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Numberic_Key.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\App.g.cs
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI_MarkupCompile.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI_MarkupCompile.lref
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\App.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Infor.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MainWindow.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\Numberic_Key.baml
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI.g.resources
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC_Cut_Via_UI.Properties.Resources.resources
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI.csproj.GenerateResource.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI.csproj.CoreCompileInputs.cache
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI.exe
+G:\My Drive\STI\04.SHIV12\20. Machine Press Shaft and Cut Via\04.App PC\Sofware\MC Cut Via UI\obj\Debug\MC Cut Via UI.pdb

@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|g:\\my drive\\sti\\04.shiv12\\20. machine press shaft and cut via\\04.app pc\\sofware\\mc cut via ui\\resources\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\resources\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\infor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\infor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\infor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\infor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\resources\\vi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\resources\\vi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\resources\\en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\resources\\en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\resources\\label.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\resources\\label.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\numberic_key.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\numberic_key.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\icon\\machining.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\icon\\machining.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\numberic_key.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\numberic_key.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\icon\\down_arrow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\icon\\down_arrow.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\icon\\infor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\icon\\infor.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\icon\\setting.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\icon\\setting.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\mc cut via ui\\icon\\cancel.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6B5C446D-A608-4403-A592-1D3E58B9D4D8}|MC Cut Via UI\\MC Cut Via UI.csproj|solutionrelative:mc cut via ui\\icon\\cancel.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Numberic_Key.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Numberic_Key.xaml.cs",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Numberic_Key.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Numberic_Key.xaml.cs",
+              "RelativeToolTip": "MC Cut Via UI\\Numberic_Key.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:52:09.927Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:426686534:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\Button.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Resources\\Button.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\Button.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\Resources\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-20T09:50:23.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Numberic_Key.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Numberic_Key.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Numberic_Key.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Numberic_Key.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\Numberic_Key.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T04:00:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Infor.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Infor.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Infor.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Infor.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\Infor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T12:39:53.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\App.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\App.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\App.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T04:09:00.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Infor.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Infor.xaml.cs",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Infor.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Infor.xaml.cs",
+              "RelativeToolTip": "MC Cut Via UI\\Infor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:02:43.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MC Cut Via UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T03:43:51.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "en.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\en.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Resources\\en.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\en.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\Resources\\en.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T07:01:11.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\MainWindow.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\MainWindow.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T09:22:02.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Label.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\Label.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Resources\\Label.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\Label.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\Resources\\Label.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T12:48:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vi.xaml",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\vi.xaml",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Resources\\vi.xaml",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Resources\\vi.xaml",
+              "RelativeToolTip": "MC Cut Via UI\\Resources\\vi.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T07:01:18.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\App.xaml.cs",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\App.xaml.cs",
+              "RelativeToolTip": "MC Cut Via UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:54:04.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "machining.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Icon\\machining.png",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Icon\\machining.png",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\MC Cut Via UI\\MC Cut Via UI\\Icon\\machining.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "..\\MC Cut Via UI\\MC Cut Via UI\\Icon\\machining.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-17T04:07:04.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logo.png - PNG [681x436, 32 bit, PNG]",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Logo.png",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Logo.png",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\MC Cut Via UI\\MC Cut Via UI\\Logo.png - PNG [681x436, 32 bit, PNG]",
+              "RelativeToolTip": "..\\MC Cut Via UI\\MC Cut Via UI\\Logo.png - PNG [681x436, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-19T09:51:44.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Infor.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Icon\\Infor.png",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Icon\\Infor.png",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\MC Cut Via UI\\MC Cut Via UI\\Icon\\Infor.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "..\\MC Cut Via UI\\MC Cut Via UI\\Icon\\Infor.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-06T12:30:55.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Setting.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Icon\\Setting.png",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Icon\\Setting.png",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\MC Cut Via UI\\MC Cut Via UI\\Icon\\Setting.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "..\\MC Cut Via UI\\MC Cut Via UI\\Icon\\Setting.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-06T12:20:12.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\App.config",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\App.config",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\App.config",
+              "RelativeToolTip": "MC Cut Via UI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T07:04:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "down_arrow.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Icon\\down_arrow.png",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Icon\\down_arrow.png",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\MC Cut Via UI\\MC Cut Via UI\\Icon\\down_arrow.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "..\\MC Cut Via UI\\MC Cut Via UI\\Icon\\down_arrow.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-06T12:37:09.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cancel.png - PNG [15x15, 32 bit, PNG]",
+              "DocumentMoniker": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\Sofware\\MC Cut Via UI\\Icon\\Cancel.png",
+              "RelativeDocumentMoniker": "MC Cut Via UI\\Icon\\Cancel.png",
+              "ToolTip": "G:\\My Drive\\STI\\04.SHIV12\\20. Machine Press Shaft and Cut Via\\04.App PC\\MC Cut Via UI\\MC Cut Via UI\\Icon\\Cancel.png - PNG [15x15, 32 bit, PNG]",
+              "RelativeToolTip": "..\\MC Cut Via UI\\MC Cut Via UI\\Icon\\Cancel.png - PNG [15x15, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-06T09:07:37.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
